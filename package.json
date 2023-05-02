@@ -20,7 +20,7 @@
         "express-session": "^1.17.1",
         "mongoose": "^7.1.0",
         "mysql2": "^2.3.3",
-        "sequelize": "^6.31.0"
+        "sequelize": "^6.31.1"
     },
     "devDependencies": {
         "eslint": "^7.12.1",
